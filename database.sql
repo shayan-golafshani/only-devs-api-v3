@@ -63,6 +63,7 @@ VALUES ('What is hoisting?'),
 ('What language constructions do you use for iterating over object properties and array items?'),
 ('How do you organize your code? (module pattern, classical inheritance?)'),
 ('What was the most interesting thing you learned about coding at Turing?'),
+('How do you go about deploying a project with GH pages, Heroku, or any other service?'),
 ('How does the web work?');
 
 CREATE TABLE answers (
